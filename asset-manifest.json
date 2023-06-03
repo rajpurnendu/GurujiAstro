@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GurujiAstro/static/css/main.8fbd3227.css",
+    "main.js": "/GurujiAstro/static/js/main.929f0adb.js",
+    "index.html": "/GurujiAstro/index.html",
+    "main.8fbd3227.css.map": "/GurujiAstro/static/css/main.8fbd3227.css.map",
+    "main.929f0adb.js.map": "/GurujiAstro/static/js/main.929f0adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fbd3227.css",
+    "static/js/main.929f0adb.js"
+  ]
+}
