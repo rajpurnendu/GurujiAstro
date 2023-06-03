@@ -1,5 +1,13 @@
 # Guruji Astro || Front End Developer || Assignment
 
+![Screenshot (246)](https://github.com/rajpurnendu/GurujiAstro/assets/72823479/94dffe50-087f-407d-93e1-bd01ca82cce1)
+
+![Screenshot (247)](https://github.com/rajpurnendu/GurujiAstro/assets/72823479/f7d7f08f-c463-4d55-9eaa-eb60228935dd)
+
+![Screenshot (249)](https://github.com/rajpurnendu/GurujiAstro/assets/72823479/7a2f3c04-4197-40ed-b98a-313f4f8e7e47)
+
+![Screenshot (250)](https://github.com/rajpurnendu/GurujiAstro/assets/72823479/41e4d197-b82c-46a3-b7f6-e7da3a3390b7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
